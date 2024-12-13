@@ -1,7 +1,10 @@
 console.log("For Narnia")
 
-const  test = () => {
-    console.log("Get more knowledge to be the best")
+const test = (name) => {
+    console.log("Hello Class")
+    console.log("goodbye")
+    console.log("My name is : " + name)
+    console.log("bye")
 }
 
-test();
+test("Braulio");
